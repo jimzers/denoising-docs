@@ -4,3 +4,4 @@ pillow<7
 opencv-python
 matplotlib
 torchvision
+jupyter
