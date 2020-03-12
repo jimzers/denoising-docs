@@ -1,0 +1,5 @@
+*.zip
+data
+.idea
+.ipynb_checkpoints
+
